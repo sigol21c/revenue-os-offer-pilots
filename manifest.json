@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "etsy-pod-listing-refresh",
+    "name": "Etsy/POD Listing SEO Refresh",
+    "files": [
+      "index.html",
+      "intake-and-delivery-template.md",
+      "sample-result.md"
+    ]
+  },
+  {
+    "slug": "ats-resume-one-shot-scan",
+    "name": "ATS Resume One-Shot Scan",
+    "files": [
+      "index.html",
+      "intake-and-delivery-template.md",
+      "sample-result.md"
+    ]
+  },
+  {
+    "slug": "shopify-tiktok-ugc-script-pack",
+    "name": "Shopify/TikTok Shop UGC Script Pack",
+    "files": [
+      "index.html",
+      "intake-and-delivery-template.md",
+      "sample-result.md"
+    ]
+  }
+]
